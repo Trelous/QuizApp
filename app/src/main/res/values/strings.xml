@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="Quiz">Little Network Quiz</string>
+
+    <string name="Question1">Question 1: IP resides at which layer of the OSI model?</string>
+
+    <string name="Q1answer1">Application</string>
+
+    <string name="Q1answer2">Physical</string>
+
+    <string name="Q1answer3">Data Link</string>
+
+    <string name="Q1answer4">Network</string>
+
+    <string name="Question2">Question 2: Layer 2 of the OSI model is named?</string>
+
+    <string name="Q2answer1">Application layer</string>
+
+    <string name="Q2answer2">Data Link layer</string>
+
+    <string name="Q2answer3">Transport layer</string>
+
+    <string name="Q2answer4">Network layer</string>
+
+    <string name="Question3">Question 3: Which of the followering are considered cabling issues? Check all that apply.</string>
+
+    <string name="Q3answer1">Ethernet</string>
+
+    <string name="Q3answer2">Crosstalk</string>
+
+    <string name="Q3answer3">Shorts</string>
+
+    <string name="Q3answer4">DNS configarations</string>
+
+    <string name="Q3answer5">Open Impedance Mismatch</string>
+
+    <string name="Question4">Question 4: Where does a Data link layer frame have to carry a network layer packet if the packet is destined for a remote network?</string>
+
+    <string name="Q4answer1">Switch</string>
+
+    <string name="Q4answer2">Router</string>
+
+    <string name="Q4answer3">Physical medium</string>
+
+    <string name="Q4answer4">Anotherhost</string>
+
+    <string name="nameBelow">Enter your name below</string>
+
+    <string name="name">Name</string>
+
+    <string name="submit">Submit Answers</string>
+
+</resources>
